@@ -1,4 +1,4 @@
-### Python FastAPI App
+# Python FastAPI App
 
 ## Running
 
